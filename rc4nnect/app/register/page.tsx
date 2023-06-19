@@ -1,3 +1,5 @@
+/*
+
 "use client"
 
 import { useState, useEffect } from "react";
@@ -70,3 +72,5 @@ function Register() {
 
 
 export default Register;
+
+*/
